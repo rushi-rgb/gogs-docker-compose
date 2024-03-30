@@ -9,7 +9,7 @@ Run a container of gogs and postgres with docker compose
 ## Run Locally
 
 
-Install Docker-compose on ubuntu
+Install Docker compose on ubuntu
 
 ```bash
 sudo apt-get update
