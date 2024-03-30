@@ -3,7 +3,7 @@
 
 Run a container of gogs and postgres with docker compose
 
-![image](https://github.com/Abhay956/gogs-docker-compose/assets/132220412/151fca9c-fb6e-4e0b-ae3a-591b05c56b2a)
+![image](https://github.com/Abhay956/gogs-docker-compose/assets/132220412/dbab0123-6552-4046-98ac-299bb6b0dcbb)
 
 
 ## Run Locally
