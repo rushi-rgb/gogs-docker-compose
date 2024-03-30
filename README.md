@@ -37,7 +37,7 @@ sudo docker compose up -d
 ```
 
 
-### Access gogs
+### Install Steps
 
 http://localhost:3000
 
