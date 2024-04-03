@@ -4,7 +4,7 @@ services:
       image: postgres:9.5
       restart: always
       environment:
-       - "POSTGRES_USER=abhay"
+       - "POSTGRES_USER=rushi"
        - "POSTGRES_PASSWORD=redhat"
        - "POSTGRES_DB=gogs"
       volumes:
